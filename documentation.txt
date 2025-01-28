@@ -1,0 +1,2 @@
+pip install spaCy and run:
+    python -m spacy download en_core_web_sm (This will download the spaCy language model to run locally)
